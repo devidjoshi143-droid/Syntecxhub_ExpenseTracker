@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#3D5AFE</color>
+    <color name="primaryDark">#304FFE</color>
+
+    <color name="secondary">#6C63FF</color>
+
+    <color name="background">#F5F7FF</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+
+    <color name="textPrimary">#1E1E2D</color>
+
+    <color name="textSecondary">#7A7A7A</color>
+
+    <color name="incomeGreen">#2ECC71</color>
+
+    <color name="expenseRed">#FF5252</color>
+
+    <color name="cardColor">#FFFFFF</color>
+
+</resources>
